@@ -1,0 +1,34 @@
+{
+  "name": "gulpsetup",
+  "version": "1.0.0",
+  "description": "gulp setup for beginners .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabujhasansarker/gulpsetup.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpfilesetup"
+  ],
+  "author": "Sabuj Hasan Sarker",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-minifier": "^3.5.0",
+    "gulp-sass": "^4.1.0",
+    "mozjpeg": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sabujhasansarker/gulpsetup/issues"
+  },
+  "homepage": "https://github.com/sabujhasansarker/gulpsetup#readme"
+}
